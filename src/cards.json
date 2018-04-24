@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "goku",
+		"image": "('../../images/goku.png')"
+	},
+	{
+		"id": 2,
+		"name": "vegeta",
+		"image": "('../../images/vegeta.png')"
+	},
+	{
+		"id": 3,
+		"name": "freeza",
+		"image": "('../../images/freeza.png')"
+	},
+	{
+		"id": 4,
+		"name": "gokuBlack",
+		"image": "('../../images/gokuBlack.png')"
+	},
+	{
+		"id": 5,
+		"name": "kefla",
+		"image": "('../../images/kefla.png')"
+	},
+	{
+		"id": 6,
+		"name": "gohan",
+		"image": "('../../images/gohan.png')"
+	},
+	{
+		"id": 7,
+		"name": "beerus",
+		"image": "('../../images/beerus.png')"
+	},
+	{
+		"id": 8,
+		"name": "champa",
+		"image": "('../../images/champa.png')"
+	},
+	{
+		"id": 9,
+		"name": "hit",
+		"image": "('../../images/hit.png')"
+	},
+	{
+		"id": 10,
+		"name": "android17",
+		"image": "('../../images/android17.png')"
+	},
+	{
+		"id": 11,
+		"name": "jiren",
+		"image": "('../../images/jiren.png')"
+	},
+	{
+		"id": 12,
+		"name": "topo",
+		"image": "('../../images/topo.png')"
+	}
+]

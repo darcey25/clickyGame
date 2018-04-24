@@ -1,0 +1,18 @@
+.right{
+	display: inline-block;
+	font-size: 30px;
+	margin-left: 20px;
+	padding-left: 20px;
+	border-left: solid 2px;
+}
+.left {
+	display: inline-block;
+	margin-left: 20px;
+}
+.nav {
+	padding-top: 10px;
+	background: rgb(0,0,0,.2);
+	height: 70px;
+	display: block;
+	margin: auto;
+}

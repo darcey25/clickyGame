@@ -1,0 +1,20 @@
+
+.card {
+	height: 200px;
+	width: 180px;
+	display: inline-block;
+	margin: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: rgb(7,85,146,.5);
+
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+}
+.image {
+	height: 180px;
+	display: block;
+	margin: auto;
+	margin-top: 10px;
+}

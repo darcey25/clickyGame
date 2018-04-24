@@ -1,0 +1,28 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.footer{
+  width: 100%;
+  clear: both;
+  text-align: center;
+  padding-bottom: 10px;
+}
+h3 {
+  text-align: center;
+}
+/*.background {
+  position: absolute;
+  z-index: 50;
+  height: 100%;
+}*/
+.main {
+  background: rgba(0,0,0,.2)
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
