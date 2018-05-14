@@ -1,3 +1,6 @@
+## App info
+Simple memory training game.  Click on all 12 images but you can only click on each once or else you loose.  After every click the images get scrambled so you must remember which images you have clicked on and which images still need to be clicked on.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
