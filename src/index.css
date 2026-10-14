@@ -1,5 +1,30 @@
+/* Base typography previously supplied by the Bootstrap 3 CDN stylesheet. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+
+h4 {
+  margin: 10px 0;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+img {
+  vertical-align: middle;
 }
